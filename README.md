@@ -1,4 +1,4 @@
-# na-blogzz
+# NA-blogzz
 
 Hi!
 
